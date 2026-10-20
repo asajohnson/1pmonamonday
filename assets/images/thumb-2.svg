@@ -1,0 +1,10 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Project thumbnail placeholder">
+  <rect width="800" height="500" fill="#FBF7EF"/>
+  <g fill="none" stroke="#1B1B1B" stroke-width="6">
+    <rect x="230" y="120" width="120" height="120"/>
+    <rect x="370" y="120" width="120" height="120"/>
+    <rect x="230" y="260" width="120" height="120"/>
+  </g>
+  <rect x="370" y="260" width="120" height="120" fill="#159E8C"/>
+  <circle cx="560" cy="180" r="26" fill="#1B1B1B"/>
+</svg>

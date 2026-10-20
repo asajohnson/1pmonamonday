@@ -1,0 +1,11 @@
+<svg viewBox="0 0 220 210" role="img" aria-label="1PM on a Monday smiley logo" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <!-- hand-drawn wobbly circle -->
+    <path d="M110 11 C 61 10, 17 45, 14 100 C 11 156, 57 199, 112 198 C 169 197, 208 155, 206 99 C 204 47, 159 12, 110 11 Z"/>
+    <!-- eyes: two short marker strokes -->
+    <path d="M85 76 C 84 85, 84 92, 85 101" stroke-width="9"/>
+    <path d="M141 74 C 140 83, 140 90, 141 99" stroke-width="9"/>
+    <!-- smile -->
+    <path d="M71 119 C 88 157, 141 159, 159 121"/>
+  </g>
+</svg>
